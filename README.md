@@ -1,16 +1,46 @@
-# jitsivideocall
+## jitsi-video-call-flutter
 
-A new Flutter application.
+jitsi video call app using Flutter.
 
-## Getting Started
+## Android Screenshots
+  HomePage                 |   Video call screen       |
+:-------------------------:|:-------------------------:|
+![](https://user-images.githubusercontent.com/75465378/125454568-121d4df9-4237-4560-a7c5-cad5307e33fa.jpg)|![](https://user-images.githubusercontent.com/75465378/125454720-37db0982-9f18-4a0c-838c-423dca126240.jpg)|
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Flutter plugins
+Plugin Name        | 
+:-------------------------|
+|jitsi_meet(https://pub.dev/packages/jitsi_meet) |
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Created & Maintained By
+
+[Deorwine Infotech](https://deorwine.com/)
+
+ 
+
+> If you found this project helpful or you learned something from the source code and want to thank team deorwine then please connect on us different platform:
+>  * [Site](https://deorwine.com/)
+>  * [Linkedin](https://www.linkedin.com/company/deorwine-infotech)
+>  * [Facebook](https://www.facebook.com/deorinfo/)
+>  * [Instagram](https://www.instagram.com/deorwine_infotech/)
+>  * [Twitter ](https://twitter.com/DeorwineI)
+>  * you can also contact us on email info@deorwine.com 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
